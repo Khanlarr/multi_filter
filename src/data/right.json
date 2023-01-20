@@ -1,0 +1,277 @@
+[
+    {
+        "id" :"1",
+        "location": "Kürdəmir / Mərkəz Fillialı",
+        "date": "27.10.2022",
+        "desc": "Kürdəmir şəhərində mühafizəçi",
+        "telebler": [
+            "Yaş həddi: 25-35 yaş",
+            "Boy 180 sm-dən yuxarı (kişi namizədlər)",
+            "Sağlam və idman cüssəli olması",
+            "Operativlik, məsuliyyətlilik, diqqət, cəldlik",
+            "Ali təhsilli olması üstünlükdür",
+            "İş təcrübəsinin olması üstünlükdür"
+        ],
+        "ish": [
+            "Ofis xarici;",
+            "İş rejimi həftənin 6 günü (Şənbə günü qısa iş günüdür);",
+            "Təşəbbüskar təkliflərin dəyərləndirilməsi;",
+            "Əmək haqqının 15 gündən bir ödənilməsi;",
+            "Tibbi sığorta təminatının verilməsi;",
+            "Nahar yeməyinin təmin olunması;",
+            "Birlikdə istirahət” tədbirlərinin keçirilməsi;"
+        ],
+        "is novu":"Tam is gunu",
+        "is bacariqi":"Nəzarət",
+        "vezife" :"Şöbə müdiri"
+    },
+     
+    {
+        "id" :"2",
+        "location": "Kürdəmir / Mərkəz Fillialı",
+        "date": "27.02.2023",
+        "desc": "Kürdəmir şəhərində İnkassator",
+        "telebler": [
+            "Ali təhsilli",
+            "İnkassasiya sahəsində müvafiq təcrübə arzuolunandır (xüsusilə bank inkassasiyası, xəzinə, kassa);",
+            "Komandada işləmək bacarığı;",
+            "Sürücülük vəsiqəsi"
+           
+        ],
+        "ish": [
+            "Təyin olunmuş ərazi üzrə;",
+            "İş rejimi həftənin 6 günü ;",
+            "Əmək haqqının 15 gündən bir ödənilməsi;",
+            "Tibbi sığorta təminatının verilməsi;",
+            "Nahar təminatının qarşılanması."
+          
+        ],
+        "is novu":"Təcrübə",
+        "is bacariqi":"Bank əməliyyatları",
+        "vezife" :"Aparıcı mütəxəssis / Baş Mütəxəssis"
+
+    }, {
+        "id" :"3",
+        "location": "Kürdəmir / Mərkəz Fillialı",
+        "date": "27.11.2022",
+        "desc": "Kürdəmir şəhərində Sürücü",
+        "telebler": [
+            "Yaş həddi: 25-35 yaş",
+            "3-5 il iş təcrübəsi",
+            "Avtomobil quruluşu üzrə yaxşı biliklər",
+            "Şəhər ərazini yaxşı tanımalı  ",
+            "Yol hərəkəti qaydalarını yaxşı bilməli",
+            "Sürücülük vəsiqəsi (minimum “B” kateqoriya)"
+        ],
+        "ish": [
+            "Təyin olunmuş ərazi üzrə;",
+            "İş rejimi həftənin 6 günü (10:00-17:00);",
+            "Əmək haqqının 15 gündən bir ödənilməsi;",
+            "Tibbi sığorta təminatının verilməsi",
+            "Nahar təminatının qarşılanması."
+        ],
+        "is novu":"Uzaqdan işləmə",
+        "is bacariqi":"İnformasiya Texnologiyaları",
+        "vezife" :"Aparıcı mütəxəssis / Baş Mütəxəssis"
+
+
+    }
+    , {
+        "id" :"4",
+        "location": "Şəki / Mərkəz Fillialı",
+        "date": "27.10.2022",
+        "desc": "Şəki şəhərində İnkassator",
+        "telebler": [
+            "Ali təhsilli",
+            "İnkassasiya sahəsində müvafiq təcrübə arzuolunandır (xüsusilə bank inkassasiyası, xəzinə, kassa);",
+            "Komandada işləmək bacarığı;",
+            "Sürücülük vəsiqəsi"
+           
+        ],
+        "ish": [
+            "Təyin olunmuş ərazi üzrə;",
+            "İş rejimi həftənin 6 günü ;",
+            "Əmək haqqının 15 gündən bir ödənilməsi;",
+            "Əmək haqqının 15 gündən bir ödənilməsi;",
+            "Tibbi sığorta təminatının verilməsi;",
+            "Nahar təminatının qarşılanması."
+        ],
+        "is novu":"Sərbəst iş qrafiki",
+        "is bacariqi":"Mühasibatlıq",
+        "vezife" :"Menecer"
+
+    }
+    , {
+        "id" :"5",
+        "location": "Şəki / Mərkəz Fillialı",
+        "date": "27.02.2023",
+        "desc": "Şəki şəhərində sürücü",
+        "telebler": [
+            "Yaş həddi: 25-35 yaş",
+            "Boy 180 sm-dən yuxarı (kişi namizədlər)",
+            "Sağlam və idman cüssəli olması",
+            "Operativlik, məsuliyyətlilik, diqqət, cəldlik",
+            "Ali təhsilli olması üstünlükdür",
+            "İş təcrübəsinin olması üstünlükdür"
+        ],
+        "ish": [
+            "Ofis xarici;",
+            "İş rejimi həftənin 6 günü (Şənbə günü qısa iş günüdür);",
+            "Təşəbbüskar təkliflərin dəyərləndirilməsi;",
+            "Əmək haqqının 15 gündən bir ödənilməsi;",
+            "Tibbi sığorta təminatının verilməsi;",
+            "Nahar yeməyinin təmin olunması;",
+            "Birlikdə istirahət” tədbirlərinin keçirilməsi;"
+        ],
+        "is novu":"Sərbəst iş qrafiki",
+        "is bacariqi":"İnzibati sahə",
+        "vezife" :"Kiçik mütəxəssis / Mütəxəssis"
+
+    }
+    , {
+        "id" :"6",
+        "location": "Bakı / Mərkəz Fillialı",
+        "date": "27.10.2022",
+        "desc": "Mühafizəçi",
+        "telebler": [
+            "Yaş həddi: 25-35 yaş",
+            "Boy 180 sm-dən yuxarı (kişi namizədlər)",
+            "Minimum 2 il iş təcrübəsi",
+            "Sağlam və idman cüssəli olması",
+            "Operativlik, məsuliyyətlilik, diqqət, cəldlik",
+            "Ali təhsilli olması üstünlükdür"
+        
+        ],
+         "ish": [
+            "Ofis xarici;",
+            "İş rejimi həftənin 6 günü (Şənbə günü qısa iş günüdür);",
+            "Təşəbbüskar təkliflərin dəyərləndirilməsi;",
+            "Əmək haqqının 15 gündən bir ödənilməsi;",
+            "Tibbi sığorta təminatının verilməsi;",
+            "Nahar yeməyinin təmin olunması;",
+            "Birlikdə istirahət” tədbirlərinin keçirilməsi;"
+        ],
+        "is novu":"Tam is gunu",
+        "is bacariqi":"resurslarının idarə edilməsi",
+        "vezife" :"Menecer"
+
+    }
+    , {
+        "id" :"7",
+        "location": "Bakı / Mərkəz Fillialı",
+        "date": "27.10.2022",
+        "desc": "Data Analitik",
+        "telebler": [
+            "Ali təhsil;",
+            "Ən azı 2 il iş təcrübəsi;",
+            "PL/SQL və SQL proqramlaşdırma dilləri barədə güclü məlumat;",
+            "SQL-də analitik funksiyalarla işləmə bacarığı;",
+            "Güclü analitik, təşkilatı və ünsiyyət bacarıqları;",
+            "OLAP və OLTP sistemlərinin prinsiplərini anlamaq;",
+            "Performans qiymətləndirmə və SQL optimallaşdırma təcrübəsi;",
+            "Məlumat anbarlarının tətbiqi təcrübəsi;",
+            "Oracle BI,Tableau  ya digər vizualizasiya proqramları ilə yaxşı səviyyədə işləməyi bacarmalı;",
+            "Dil tələbləri: Azərbaycan dili, Rus və İngilis dili bilməsi arzuolunandır;",
+            "Komandada işləmək bacarığı və stressə davamlılıq;",
+            "Məsuliyyət, dəqiqlik, opertativlik və problemi həll etmə bacarığı;"
+
+        ],
+       "ish": [
+            "Ofis xarici;",
+            "İş rejimi həftənin 5 günü (09:00 – 18:00);",
+            "Təşəbbüskar təkliflərin dəyərləndirilməsi;",
+            "Əmək haqqının 15 gündən bir ödənilməsi;",
+            "Tibbi sığorta təminatının verilməsi;",
+            "Nahar yeməyinin təmin olunması;",
+            "Birlikdə istirahət” tədbirlərinin keçirilməsi;"
+        ],
+        "is novu":"Tam is gunu",
+        "is bacariqi":"Layihələrin idarə edilməsi",
+        "vezife" :"Şöbə müdiri"
+
+    }
+    , {
+        "id" :"8",
+        "location": "Bakı / Mərkəz Fillialı",
+        "date": "04.10.2022",
+        "desc": "Frontend proqramçı",
+        "telebler": [
+            "Yaş həddi: 25-35 yaş",
+            "Boy 180 sm-dən yuxarı (kişi namizədlər)",
+            "Sağlam və idman cüssəli olması",
+            "Operativlik, məsuliyyətlilik, diqqət, cəldlik",
+            "Ali təhsilli olması üstünlükdür",
+            "İş təcrübəsinin olması üstünlükdür"
+        ],
+        "ish": [
+            "Ofis xarici;",
+            "İş rejimi həftənin 6 günü (Şənbə günü qısa iş günüdür);",
+            "Təşəbbüskar təkliflərin dəyərləndirilməsi;",
+            "Əmək haqqının 15 gündən bir ödənilməsi;",
+            "Tibbi sığorta təminatının verilməsi;",
+            "Nahar yeməyinin təmin olunması;",
+            "Birlikdə istirahət” tədbirlərinin keçirilməsi;"
+        ],
+        "is novu":"Yarim is gunu",
+        "is bacariqi":"Kredit / Anderrayting",
+        "vezife" :"Kiçik mütəxəssis / Mütəxəssis"
+
+    }
+    , {
+        "id" :"9",
+        "location": "Bakı / Mərkəz Fillialı",
+        "date": "04.10.2022",
+        "desc": "Software architect",
+        "telebler": [
+            "Yaş həddi: 25-35 yaş",
+            "Boy 180 sm-dən yuxarı (kişi namizədlər)",
+            "Sağlam və idman cüssəli olması",
+            "Operativlik, məsuliyyətlilik, diqqət, cəldlik",
+            "Ali təhsilli olması üstünlükdür",
+            "İş təcrübəsinin olması üstünlükdür"
+        ],
+       "ish": [
+            "Ofis xarici;",
+            "İş rejimi həftənin 6 günü (Şənbə günü qısa iş günüdür);",
+            "Təşəbbüskar təkliflərin dəyərləndirilməsi;",
+            "Əmək haqqının 15 gündən bir ödənilməsi;",
+            "Tibbi sığorta təminatının verilməsi;",
+            "Nahar yeməyinin təmin olunması;",
+            "Birlikdə istirahət” tədbirlərinin keçirilməsi;"
+        ],
+        "is novu":"Sərbəst iş qrafiki",
+        "is bacariqi":"İnzibati sahə",
+        "vezife" :"Kiçik mütəxəssis / Mütəxəssis"
+
+    }
+    , {
+        "id" :"10",
+        "location": "Sumqayıt / Mərkəz Fillialı",
+        "date": "04.10.2022",
+        "desc": "Texnik (Sumqayıt) ",
+        "telebler": [
+            "Minimum 1-2 il iş təcrübəsi",
+            "Windows 7, Linux əməliyyat sistemi və bu kimi əməliyyat sistemlərin yükləmə və idarəetmə bacarıqları",
+            "Kompyuter avadanlıqların (Hardware) yığılması, quraşdırılması, diaqnostikası və avadanlıqlarda əmələ gələn problemlərin həlli",
+            "Word, Excel, Outlook",
+            "Problem həll etmək bacarığına malik",
+            "Nəticə almağa meyilli",
+            "Daim öyrənməyə meyilli",
+            "Səbrli, stressə dözümlü"
+            
+        ],
+        "ish": [
+            "Ofis xarici;",
+            "İş rejimi həftənin 6 günü (Şənbə günü qısa iş günüdür);",
+            "Təşəbbüskar təkliflərin dəyərləndirilməsi;",
+            "Əmək haqqının 15 gündən bir ödənilməsi;",
+            "Tibbi sığorta təminatının verilməsi;",
+            "Nahar yeməyinin təmin olunması;",
+            "Birlikdə istirahət” tədbirlərinin keçirilməsi;"
+        ],
+        "is novu":"Yarim is gunu",
+        "is bacariqi":"Risk",
+        "vezife" :"Şöbə müdiri"
+
+    }
+]

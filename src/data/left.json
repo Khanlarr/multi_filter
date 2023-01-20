@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "title": "is novleri",
+        "items": [
+            {
+                "id": 1,
+                "item": "Tam is gunu"
+            },
+            {
+                "id": 2,
+                "item": "Yarim is gunu"
+            },
+            {
+                "id": 3,
+                "item": "Uzaqdan işləmə"
+            },
+            {
+                "id": 4,
+                "item": "Sərbəst iş qrafiki"
+            },
+            {
+                "id": 5,
+                "item": "Təcrübə"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "is bacariqlari",
+        "items": [
+            {
+                "id": 1,
+                "item": "Satış"
+            },
+            {
+                "id": 2,
+                "item": "Nəzarət"
+            },
+            {
+                "id": 3,
+                "item": "İnformasiya təhlükəsizliyi - Kibertəhlükəsizlik"
+            },
+            {
+                "id": 4,
+                "item": "Analitika"
+            },
+            {
+                "id": 5,
+                "item": "Müştəri xidmətləri"
+            },
+            {
+                "id": 6,
+                "item": "Maliyyə"
+            },
+            {
+                "id": 7,
+                "item": "Bank əməliyyatları"
+            },
+            {
+                "id": 8,
+                "item": "Büdcə"
+            },
+            {
+                "id": 9,
+                "item": "Risk"
+            },
+            {
+                "id": 10,
+                "item": "Hüquq"
+            },
+            {
+                "id": 11,
+                "item": "Kredit / Anderrayting"
+            },
+            {
+                "id": 12,
+                "item": "Layihələrin idarə edilməsi"
+            },
+            {
+                "id": 13,
+                "item": "Marketing İnsan"
+            },
+            {
+                "id": 14,
+                "item": "resurslarının idarə edilməsi"
+            },
+            {
+                "id": 15,
+                "item": "İnzibati sahə"
+            },
+            {
+                "id": 16,
+                "item": "Mühasibatlıq"
+            },
+            {
+                "id": 17,
+                "item": "İT proqramlaşdırma"
+            },
+            {
+                "id": 18,
+                "item": "İnformasiya Texnologiyaları"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Vəzifə",
+        "items": [
+            {
+                "id": 1,
+                "item": "Kiçik mütəxəssis / Mütəxəssis"
+            },
+            {
+                "id": 2,
+                "item": "Aparıcı mütəxəssis / Baş Mütəxəssis"
+            },
+            {
+                "id": 3,
+                "item": "Menecer"
+            },
+            {
+                "id": 4,
+                "item": "Şöbə müdiri"
+            }
+        ]
+    }
+]
